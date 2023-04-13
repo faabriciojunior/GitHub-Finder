@@ -1,3 +1,3 @@
 # GitHub-Finder
 
-Desenvolvi um sistema de busca de usuários no GitHub pelo usuário, utilizando API.
+Desenvolvi um sistema de busca de usuários no GitHub, utilizando API.
